@@ -1,6 +1,7 @@
 # average_calculator
 
-A new Flutter project.
+
+It takes the grades and credit values ​​of university courses from the user and shows their average.
 
 ## Getting Started
 
