@@ -1,6 +1,6 @@
-import 'package:average_calculator/constants/app_constants.dart';
-import 'package:average_calculator/widgets/ortalama_hesapla_app.dart';
 import 'package:flutter/material.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/constants/app_constants.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/widgets/ortalama_hesapla_app.dart';
 
 void main() => runApp(const MyApp());
 

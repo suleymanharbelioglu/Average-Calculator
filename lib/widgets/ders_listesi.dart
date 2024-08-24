@@ -1,6 +1,6 @@
-import 'package:average_calculator/constants/app_constants.dart';
-import 'package:average_calculator/helper/data_helper.dart';
 import 'package:flutter/material.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/constants/app_constants.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/helper/data_helper.dart';
 
 class DersListesi extends StatelessWidget {
   final Function onElemanCikarildi;

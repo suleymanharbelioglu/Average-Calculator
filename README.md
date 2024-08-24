@@ -1,7 +1,6 @@
-# average_calculator
+# v164_callbackfunc_uygulamasasonu
 
-
-It takes the grades and credit values ​​of university courses from the user and shows their average.
+A new Flutter project.
 
 ## Getting Started
 

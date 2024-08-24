@@ -1,11 +1,11 @@
-import 'package:average_calculator/constants/app_constants.dart';
-import 'package:average_calculator/helper/data_helper.dart';
-import 'package:average_calculator/model/ders.dart';
-import 'package:average_calculator/widgets/ders_listesi.dart';
-import 'package:average_calculator/widgets/harf_dropdown_widget.dart';
-import 'package:average_calculator/widgets/kredi_dropdpwn_widget.dart';
-import 'package:average_calculator/widgets/ortalama_goster.dart';
 import 'package:flutter/material.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/constants/app_constants.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/helper/data_helper.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/model/ders.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/widgets/ders_listesi.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/widgets/harf_dropdown_widget.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/widgets/kredi_dropdpwn_widget.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/widgets/ortalama_goster.dart';
 
 class OrtalamaHesaplaApp extends StatefulWidget {
   const OrtalamaHesaplaApp({super.key});

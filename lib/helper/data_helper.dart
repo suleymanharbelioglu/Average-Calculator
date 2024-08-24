@@ -1,5 +1,5 @@
-import 'package:average_calculator/model/ders.dart';
 import 'package:flutter/material.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/model/ders.dart';
 
 class DataHelper {
   static List<Ders> tumEklenenDersler = [];

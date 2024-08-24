@@ -1,5 +1,5 @@
-import 'package:average_calculator/constants/app_constants.dart';
 import 'package:flutter/material.dart';
+import 'package:v164_callbackfunc_uygulamasasonu/constants/app_constants.dart';
 
 class OrtalamaGoster extends StatelessWidget {
   final double ortalama;
